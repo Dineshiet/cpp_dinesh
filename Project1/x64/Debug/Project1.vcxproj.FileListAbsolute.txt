@@ -1,0 +1,2 @@
+D:\C_Dev\CPP_Series\Project1\x64\Debug\printing.exe
+D:\C_Dev\CPP_Series\Project1\x64\Debug\printing.pdb

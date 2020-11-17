@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "projects\\helloworld"
+		}
+	],
+	"settings": {
+		"workbench.preferredHighContrastColorTheme": "Default Dark+",
+		"workbench.preferredLightColorTheme": "Default Dark+",
+		"window.autoDetectColorScheme": true,
+		"files.autoSaveDelay": 300000,
+		"editor.fontSize": 13
+	}
+}

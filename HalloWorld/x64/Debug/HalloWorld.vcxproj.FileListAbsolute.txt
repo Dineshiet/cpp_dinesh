@@ -1,0 +1,2 @@
+C:\C_Dev\CPP_Series\HalloWorld\x64\Debug\HalloWorld.exe
+C:\C_Dev\CPP_Series\HalloWorld\x64\Debug\HalloWorld.pdb

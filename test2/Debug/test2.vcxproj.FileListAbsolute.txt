@@ -1,0 +1,2 @@
+D:\C_Dev\CPP_Series\test2\Debug\test2.exe
+D:\C_Dev\CPP_Series\test2\Debug\test2.pdb

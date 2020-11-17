@@ -1,0 +1,10 @@
+﻿  test2.cpp
+D:\C_Dev\CPP_Series\test2\test2.cpp(32,5): error C2143: syntax error: missing ';' before '--'
+D:\C_Dev\CPP_Series\test2\test2.cpp(32,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\C_Dev\CPP_Series\test2\test2.cpp(33,2): error C2059: syntax error: 'return'
+D:\C_Dev\CPP_Series\test2\test2.cpp(34,1): error C2059: syntax error: '}'
+D:\C_Dev\CPP_Series\test2\test2.cpp(34,1): error C2143: syntax error: missing ';' before '}'
+D:\C_Dev\CPP_Series\test2\test2.cpp(36,1): error C2143: syntax error: missing ';' before '{'
+D:\C_Dev\CPP_Series\test2\test2.cpp(36,1): error C2447: '{': missing function header (old-style formal list?)
+D:\C_Dev\CPP_Series\test2\test2.cpp(49,3): error C2447: '{': missing function header (old-style formal list?)
+D:\C_Dev\CPP_Series\test2\test2.cpp(50,1): fatal error C1004: unexpected end-of-file found

@@ -1,0 +1,12 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "Debug\\HalloWorld.exe",
+      "projectTarget": "",
+      "name": "HalloWorld.exe"
+    }
+  ]
+}
