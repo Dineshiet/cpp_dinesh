@@ -9,7 +9,7 @@
 				"-g",
 				"${file}",
 				"-o",
-				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+				"D:\\C_Dev\\bin\\${fileBasenameNoExtension}.exe"
 			],
 			"options": {
 				"cwd": "C:\\MinGW\\bin"
